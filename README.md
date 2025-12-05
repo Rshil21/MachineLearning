@@ -1,10 +1,11 @@
-Project Name : Titanic Survival Prediction
-Overview : This project implements a machine learning solution to predict passenger survival on the Titanic. Using various classification algorithms and comprehensive data analysis, the system identifies key factors influencing survival and builds predictive models with detailed evaluation metrics.
+Titanic Survival Prediction
+📋 Project Overview
+This project implements a machine learning solution to predict passenger survival on the Titanic. Using various classification algorithms and comprehensive data analysis, the system identifies key factors influencing survival and builds predictive models with detailed evaluation metrics.
 
 Domain: Machine Learning / Binary Classification
 Goal: Predict whether a passenger survived the Titanic disaster based on demographic and ticket information.
 
-Information
+📊 Dataset Information
 Source: Kaggle Titanic Dataset
 Size: 891 passengers × 12 features
 Target Variable: Survived (0 = Died, 1 = Survived)
@@ -34,7 +35,7 @@ Cabin: Cabin number
 
 Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
-Technology Stack
+🛠️ Technology Stack
 Core Libraries
 Pandas - Data manipulation and analysis
 
